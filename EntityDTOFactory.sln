@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityDTOFactory", "EntityDTOFactory\EntityDTOFactory.csproj", "{BC32A39D-F05E-4547-A9B1-A1705F59C796}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityDTOFactoryTests", "EntityDTOFactoryTests\EntityDTOFactoryTests.csproj", "{71B1C89F-576E-426D-B753-4710A879B9D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC32A39D-F05E-4547-A9B1-A1705F59C796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC32A39D-F05E-4547-A9B1-A1705F59C796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC32A39D-F05E-4547-A9B1-A1705F59C796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC32A39D-F05E-4547-A9B1-A1705F59C796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B1C89F-576E-426D-B753-4710A879B9D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B1C89F-576E-426D-B753-4710A879B9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B1C89F-576E-426D-B753-4710A879B9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B1C89F-576E-426D-B753-4710A879B9D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {234324CC-5CA1-4EC8-AADC-8C070DE4E14A}
+	EndGlobalSection
+EndGlobal
